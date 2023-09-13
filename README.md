@@ -25,6 +25,15 @@
 
 ---
 
+### Publications
+
+- ["Fast and Accurate Time Series Classification Through Supervised Interval Search"](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a948/1r54GC4rM0o)
+  - Presented in the 2020 IEEE International Conference on Data Mining (ICDM, acceptance rate: 9.8%), pp. 948-953. 
+- ["Fast, Accurate and Interpretable Time Series Classification Through Randomization"](https://arxiv.org/pdf/2105.14876.pdf)
+  - Accepted for publication in Data Mining and Knowledge Discovery, DMKD (Q1 journal).
+
+---
+
 ### Skills
 
 - **Programming Languages**: Python, Java, C#, MATLAB, R
@@ -84,24 +93,39 @@
   - Lectured in several courses: Operating Systems, Object-Oriented Software Engineering, Compilers, Data Structures, Databases, Fundamentals of Programming (Python) and Object-Oriented Programming (Java).
   - Directed a community-focused project related to the development of computational thinking in children through the use of programmable technologies.
 
-
+#### Carro Seguro S.A.
+- **Software Developer** , Feb 2013 - Feb 2015  
+  - Supported and developed new features for the company's web platforms using ASP.NET and SQL technologies.
+  - Deployed [Android applications] (https://play.google.com/store/apps/details?id=com.devsu.cervezasmart&pli=1) with REST and SOAP web services.
+  - Implemented an HTTP Servlet for image transfer.
+  - Configured Linux servers.
+ 
+#### Carro Seguro S.A.
+- **Technical Support Engineer** , Jun 2009 - Feb 2013  
+  - Supervised the correct operation of 130 monitoring towers all over the country.
+  - Tested, configured, and installed GPRS equipment.
+  - Repaired Motorola radios and provided maintenance.
+  - Configured VHF and UHF radios.
+    
 ---
 
-### Publications
-
-- ["Fast and Accurate Time Series Classification Through Supervised Interval Search"](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a948/1r54GC4rM0o)
-- ["Fast, Accurate and Interpretable Time Series Classification Through Randomization"](https://arxiv.org/pdf/2105.14876.pdf)
-
----
 
 ### Projects
 
 - [**FitnessMate**](https://github.com/stevcabello/FitnessMate)
-  - Fitness-tracking mobile application. Technologies: Android, AndroidLibSVM, SQLite.
+  - Fitness-tracking mobile application able to detect automatically 5 types of activities (i.e., Human Activity Recognition HAR): walking, jogging, cycling and walking upstairs/downstairs providing the calories consumed on each exercise. Technologies: Android, AndroidLibSVM, SQLite.
+ 
+    ![image](https://github.com/stevcabello/stevcabello.github.io/assets/5056125/525bdcc1-6df8-46cf-a908-0689a6142b61)
+    ![image](https://github.com/stevcabello/stevcabello.github.io/assets/5056125/1cd3c262-fde4-4169-b109-e24127e40a9e)
+
+
 
 - [**Mutual Exclusion Tetris**](https://github.com/stevcabello/Tetris_mutual_exclusion)
-  - Multiplayer Tetris game. Technologies: Android, Node.js.
+  - Multiplayer adaptation of Tetris game by using Mutual Exclusion algorithms and a Peer to Peer (P2P) network. Technologies: Android, Node.js.
+ 
 
-... (Include other projects in the same format)
+
+- [**Instagram App**](https://github.com/stevcabello/Instagram_app.git)
+  - Instagram-like Android application with some new functionalities that use the Instagram API and Bluetooth technology.  Technologies: Android, Instagram API.
 
 ---
