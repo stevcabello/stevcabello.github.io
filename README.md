@@ -134,6 +134,7 @@
   
 - [**Instagram App**](https://github.com/stevcabello/Instagram_app.git)
   - Instagram-like Android application with some new functionalities that use the Instagram API and Bluetooth technology.  Technologies: Android, Instagram API.
+    
     {% include youtube.html id="ZdfwFVQK7hw" %}
     
     {% include youtube.html id="s3KGtHUhYQk" %}
