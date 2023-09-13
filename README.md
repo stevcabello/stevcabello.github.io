@@ -28,7 +28,10 @@
 ### Publications
 
 - ["Fast and Accurate Time Series Classification Through Supervised Interval Search"](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a948/1r54GC4rM0o)
-  - Presented in the 2020 IEEE International Conference on Data Mining (ICDM, acceptance rate: 9.8%), pp. 948-953. 
+  - Presented in the 2020 IEEE International Conference on Data Mining (ICDM, acceptance rate: 9.8%), pp. 948-953.
+
+
+    
 - ["Fast, Accurate and Interpretable Time Series Classification Through Randomization"](https://arxiv.org/pdf/2105.14876.pdf)
   - Accepted for publication in Data Mining and Knowledge Discovery, DMKD (Q1 journal).
 
@@ -113,7 +116,7 @@
 ### Projects
 
 - [**Data Labeller App**](https://github.com/stevcabello/CMAI-Labeller-App)
-  - Data labeller app created for the Music Attuned Technology – Care via eHealth (MATCH) project to facilitate the labelling of agitation symptoms in patients living with dementia.
+  - Data labeller app created for the MATCH project to facilitate the labelling of agitation symptoms in patients living with dementia.
 
     {% include youtube.html id="DuulhTF6AJ8" %}
 
@@ -133,6 +136,8 @@
   - Instagram-like Android application with some new functionalities that use the Instagram API and Bluetooth technology.  Technologies: Android, Instagram API.
     
     {% include youtube.html id="s3KGtHUhYQk" %}
+
+  
     {% include youtube.html id="ZdfwFVQK7hw" %}
 
 ---
