@@ -116,7 +116,6 @@
   - Fitness-tracking mobile application able to detect automatically 5 types of activities (i.e., Human Activity Recognition HAR): walking, jogging, cycling and walking upstairs/downstairs providing the calories consumed on each exercise. Technologies: Android, AndroidLibSVM, SQLite.
  
     ![image](https://github.com/stevcabello/stevcabello.github.io/assets/5056125/525bdcc1-6df8-46cf-a908-0689a6142b61)
-    ![image](https://github.com/stevcabello/stevcabello.github.io/assets/5056125/1cd3c262-fde4-4169-b109-e24127e40a9e)
 
 
 
@@ -128,5 +127,8 @@
 
 - [**Instagram App**](https://github.com/stevcabello/Instagram_app.git)
   - Instagram-like Android application with some new functionalities that use the Instagram API and Bluetooth technology.  Technologies: Android, Instagram API.
+    
+    {% include youtube.html id="s3KGtHUhYQk" %}
+    {% include youtube.html id="ZdfwFVQK7hw" %}
 
 ---
