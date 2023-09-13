@@ -122,7 +122,8 @@
 
 - [**Mutual Exclusion Tetris**](https://github.com/stevcabello/Tetris_mutual_exclusion)
   - Multiplayer adaptation of Tetris game by using Mutual Exclusion algorithms and a Peer to Peer (P2P) network. Technologies: Android, Node.js.
- 
+
+   {% include youtube.html id="UC7zSaU3n2s" %} 
 
 
 - [**Instagram App**](https://github.com/stevcabello/Instagram_app.git)
