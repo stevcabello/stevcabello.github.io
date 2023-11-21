@@ -32,8 +32,8 @@
 
 
     
-- ["Fast, Accurate and Interpretable Time Series Classification Through Randomization"](https://arxiv.org/pdf/2105.14876.pdf)
-  - Accepted for publication in Data Mining and Knowledge Discovery, DMKD (Q1 journal).
+- ["Fast, Accurate and Explainable Time Series Classification Through Randomization"]([https://arxiv.org/pdf/2105.14876.pdf](https://link.springer.com/article/10.1007/s10618-023-00978-w)
+  - Published in Data Mining and Knowledge Discovery (DMKD - Q1 journal), pp. 1-64.
 
 ---
 
