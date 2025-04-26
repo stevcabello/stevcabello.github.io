@@ -2,6 +2,14 @@
 layout: default
 title: Home
 ---
+
+<nav style="text-align: center; margin-bottom: 30px;">
+  <a href="/" style="margin: 0 15px;">Home</a>
+  <a href="/work_experience" style="margin: 0 15px;">Work Experience</a>
+  <a href="/projects" style="margin: 0 15px;">Projects</a>
+  <a href="/contact" style="margin: 0 15px;">Contact</a>
+</nav>
+
 ### Education
 
 - **The University of Melbourne**, Melbourne, Australia  
