@@ -7,8 +7,8 @@ title: Work Experience
   <a href="/" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Home' %}#8f0{% else %}white{% endif %};">Home</a>
   <a href="/work_experience" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Work Experience' %}#8f0{% else %}white{% endif %};">Work Experience</a>
   <a href="/projects" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Projects' %}#8f0{% else %}white{% endif %};">Projects</a>
-  <a href="/contact" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Contact' %}#8f0{% else %}white{% endif %};">Contact</a>
   <a href="/resume" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Resume' %}#8f0{% else %}white{% endif %};">Resume</a>
+  <a href="/contact" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Contact' %}#8f0{% else %}white{% endif %};">Contact</a>
 </nav>
 
 ### Work Experience
