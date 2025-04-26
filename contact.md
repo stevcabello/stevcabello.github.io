@@ -3,11 +3,11 @@ layout: default
 title: Contact
 ---
 
-<nav style="text-align: center; margin-bottom: 30px;">
-  <a href="/" style="margin: 0 15px;">Home</a>
-  <a href="/work_experience" style="margin: 0 15px;">Work Experience</a>
-  <a href="/projects" style="margin: 0 15px;">Projects</a>
-  <a href="/contact" style="margin: 0 15px;">Contact</a>
+<nav style="background-color: #222; padding: 10px; text-align: center; border-radius: 8px; margin-bottom: 30px;">
+  <a href="/" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Home' %}#8f0{% else %}white{% endif %};">Home</a>
+  <a href="/work_experience" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Work Experience' %}#8f0{% else %}white{% endif %};">Work Experience</a>
+  <a href="/projects" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Projects' %}#8f0{% else %}white{% endif %};">Projects</a>
+  <a href="/contact" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Contact' %}#8f0{% else %}white{% endif %};">Contact</a>
 </nav>
 
 ### Contact
