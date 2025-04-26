@@ -17,7 +17,7 @@ title: Home
     I am an AI Research Scientist and Software Engineer passionate about developing intelligent, interpretable, and scalable solutions. My expertise spans machine learning, time series analysis, software engineering, and applied AI for healthcare and assistive technologies.
   </div>
 
-  <img src="/profile_photo.jpeg" alt="Profile Photo" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px;">
+  <img src="/profile_photo.jpeg" alt="Profile Photo" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 0 10px rgba(0, 255, 0, 0.4); background: transparent;">
 
 </div>
 
