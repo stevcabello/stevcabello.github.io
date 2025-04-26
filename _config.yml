@@ -1,14 +1,43 @@
-# theme: jekyll-theme-minimal
-theme: jekyll-theme-yat
 title: Nestor Cabello
-description: AI Research Scientist and Software Engineer
+email: stevcabello@gmail.com
+author: Nestor Cabello
 
-# remote_theme: pages-themes/hacker@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+description: >-
+  AI Research Scientist and Software Engineer
+
+baseurl: ""
+url: ""
+
+theme: jekyll-theme-yat
 
 header_pages:
   - index.md
   - work_experience.md
   - projects.md
   - contact.md
+
+markdown: kramdown
+kmarkdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
+
+# # theme: jekyll-theme-minimal
+# theme: jekyll-theme-yat
+# title: Nestor Cabello
+# description: AI Research Scientist and Software Engineer
+
+# # remote_theme: pages-themes/hacker@v0.2.0
+# # plugins:
+# # - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# header_pages:
+#   - index.md
+#   - work_experience.md
+#   - projects.md
+#   - contact.md
