@@ -16,12 +16,12 @@ title: Home
 - **The University of Melbourne**, Melbourne, Australia  
   - **Doctor of Philosophy in Computer Science**, Dec 2017 - Jun 2023  
     - [Thesis: "Scalable and Explainable Time Series Classification"](http://hdl.handle.net/11343/331645)  
-    - Supervisors: Prof Lars Kulik and [Dr Jianzhong Qi](https://people.eng.unimelb.edu.au/jianzhongq/)
+    - Supervisors: [Prof Lars Kulik](https://lars.kuliks.net/?page_id=6) and [Assoc Prof Jianzhong Qi](https://people.eng.unimelb.edu.au/jianzhongq/)
 
 - **The University of Melbourne**, Melbourne, Australia  
   - **Master in Computer Science (with Distinction)**, Feb 2015 - Nov 2016  
     - [Thesis: "Automatic caloric expenditure estimation with smartphone's built-in sensors"](http://hdl.handle.net/11343/256330)  
-    - Supervisors: Prof Lars Kulik and [Dr Masud Moshtaghi](https://au.linkedin.com/in/masud-moshtaghi-3957386)
+    - Supervisors: [Prof Lars Kulik](https://lars.kuliks.net/?page_id=6) and [Dr Masud Moshtaghi](https://au.linkedin.com/in/masud-moshtaghi-3957386)
 
 - **Escuela Superior Politécnica del Litoral (ESPOL)**, Guayaquil, Ecuador  
   - **Bachelor in Electronics and Telecommunications**, Mar 2004 - Dec 2008
