@@ -1,4 +1,3 @@
-<img src="/profile_photo.jpeg" alt="Nestor Cabello" width="150" align="right" style="margin-top: -40px; border-radius: 8px;" />
 
 ### Contact
 
