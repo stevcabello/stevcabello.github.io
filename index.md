@@ -40,15 +40,3 @@ title: Home
 
 ---
 
-### Skills
-
-- **Programming Languages**: Python, Java, C#, MATLAB, R
-- **Web Technologies**: PHP, JavaScript
-- **Mobile Development**: Android, React Native
-- **Machine Learning Libraries**: Scikit-Learn, PyTorch, Keras, TensorFlow, Sktime
-- **Data Manipulation and Visualisation**: NumPy, Pandas, Matplotlib, Seaborn
-- **Databases**: SQL, MySQL, PostgreSQL, SQLite, InfluxDB
-- **Cloud Computing**: AWS (Amazon EC2 and Amazon S3), Melbourne Research Cloud
-- **Operating Systems**: Windows, macOS, Unix/Linux
-
----
