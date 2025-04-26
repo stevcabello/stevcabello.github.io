@@ -11,7 +11,7 @@ title: Contact
   <a href="/contact" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Contact' %}#8f0{% else %}white{% endif %};">Contact</a>
 </nav>
 
-### Contact
+
 
 - 📱 **+61 470 693 671**
 - 📧 [stevcabello@gmail.com](mailto:stevcabello@gmail.com)
