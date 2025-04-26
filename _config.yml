@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: Nestor Cabello
 description: AI Research Scientist and Software Engineer
 
