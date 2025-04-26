@@ -94,6 +94,7 @@ title: Work Experience
       <span style="font-weight: bold; color: #8f0;">RMIT University</span>
       <span style="font-weight: bold; color: white;">Research Assistant | Reported to <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/n/naghizade-dr-e" style="color: #4fc3f7;">Dr Elham Naghizade</a>, Nov 2022 – Apr 2023</span>
     </div>
+    <span class="icon" style="font-size: 20px; margin-left: 10px;">∨</span>
   </button>
   <div style="display: none; margin-top: 10px; padding-left: 20px;">
     <ul>
