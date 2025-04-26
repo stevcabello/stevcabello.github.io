@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-<nav style="text-align: center; margin-bottom: 30px;">
-  <a href="/" style="margin: 0 15px;">Home</a>
-  <a href="/work_experience" style="margin: 0 15px;">Work Experience</a>
-  <a href="/projects" style="margin: 0 15px;">Projects</a>
-  <a href="/contact" style="margin: 0 15px;">Contact</a>
+<nav style="background-color: #222; padding: 10px; text-align: center; border-radius: 8px; margin-bottom: 30px;">
+  <a href="/" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Home</a>
+  <a href="/work_experience" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Work Experience</a>
+  <a href="/projects" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Projects</a>
+  <a href="/contact" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Contact</a>
 </nav>
 
 ### Education
