@@ -15,8 +15,14 @@ title: Work Experience
 
 <div style="margin-bottom: 20px;">
   <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;">
-    The University of Melbourne — AI Research Fellow
+    <div style="display: flex; flex-direction: column;">
+      <span style="font-weight: bold; color: #8f0;">The University of Melbourne</span>
+      <span style="font-weight: bold; color: white;">
+        AI Research Fellow | Reporting to <a href="https://lars.kuliks.net/?page_id=6" style="color: #4fc3f7;">Prof Lars Kulik</a>, Jan 2023 – Present
+      </span>
+    </div>
   </button>
+
   <div style="display: none; margin-top: 10px; padding-left: 20px;">
     <ul>
       <li>Researcher for workstream 3 of the <a href="https://www.musicattunedcare.com/" style="color: #0bf;">MATCH project</a>.</li>
