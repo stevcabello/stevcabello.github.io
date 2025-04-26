@@ -60,7 +60,7 @@ title: Work Experience
 #### Carro Seguro S.A.
 - **Software Developer** , Feb 2013 - Feb 2015  
   - Supported and developed new features for the company's web platforms using ASP.NET and SQL technologies.
-  - Deployed [Android applications] (https://play.google.com/store/apps/details?id=com.devsu.cervezasmart&pli=1) with REST and SOAP web services.
+  - Deployed [Android applications](https://play.google.com/store/apps/details?id=com.devsu.cervezasmart&pli=1) with REST and SOAP web services.
   - Implemented an HTTP Servlet for image transfer.
   - Configured Linux servers.
  
