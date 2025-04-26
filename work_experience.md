@@ -47,11 +47,24 @@ title: Work Experience
 </div>
 
 <div style="margin-bottom: 20px;">
-  <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;">
+<!--   <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;"> -->
+  <button onclick="
+    var content = this.nextElementSibling;
+    var icon = this.querySelector('.icon');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      icon.textContent = '∧';
+    } else {
+      content.style.display = 'none';
+      icon.textContent = '∨';
+    }
+  " style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+
     <div style="display: flex; flex-direction: column;">
       <span style="font-weight: bold; color: #8f0;">RMIT University</span>
       <span style="font-weight: bold; color: white;">Academic Tutor | Reporting to <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/n/naghizade-dr-e" style="color: #4fc3f7;">Dr Elham Naghizade</a>, Jul 2023 – Present</span>
     </div>
+    <span class="icon" style="font-size: 20px; margin-left: 10px;">∨</span>
   </button>
   <div style="display: none; margin-top: 10px; padding-left: 20px;">
     <ul>
@@ -64,7 +77,19 @@ title: Work Experience
 </div>
 
 <div style="margin-bottom: 20px;">
-  <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;">
+<!--   <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;"> -->
+  <button onclick="
+    var content = this.nextElementSibling;
+    var icon = this.querySelector('.icon');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      icon.textContent = '∧';
+    } else {
+      content.style.display = 'none';
+      icon.textContent = '∨';
+    }
+  " style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+
     <div style="display: flex; flex-direction: column;">
       <span style="font-weight: bold; color: #8f0;">RMIT University</span>
       <span style="font-weight: bold; color: white;">Research Assistant | Reported to <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/n/naghizade-dr-e" style="color: #4fc3f7;">Dr Elham Naghizade</a>, Nov 2022 – Apr 2023</span>
@@ -82,11 +107,24 @@ title: Work Experience
 </div>
 
 <div style="margin-bottom: 20px;">
-  <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;">
+<!--   <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;"> -->
+    <button onclick="
+    var content = this.nextElementSibling;
+    var icon = this.querySelector('.icon');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      icon.textContent = '∧';
+    } else {
+      content.style.display = 'none';
+      icon.textContent = '∨';
+    }
+  " style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+
     <div style="display: flex; flex-direction: column;">
       <span style="font-weight: bold; color: #8f0;">Rosetta Analytics</span>
       <span style="font-weight: bold; color: white;">Senior Software Engineer | Reported to <a href="https://anthonyquattrone.com/" style="color: #4fc3f7;">Dr Anthony Quattrone</a>, Nov 2021 – Nov 2022</span>
     </div>
+    <span class="icon" style="font-size: 20px; margin-left: 10px;">∨</span>
   </button>
   <div style="display: none; margin-top: 10px; padding-left: 20px;">
     <ul>
@@ -101,11 +139,24 @@ title: Work Experience
 </div>
 
 <div style="margin-bottom: 20px;">
-  <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;">
+<!--   <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;"> -->
+    <button onclick="
+    var content = this.nextElementSibling;
+    var icon = this.querySelector('.icon');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      icon.textContent = '∧';
+    } else {
+      content.style.display = 'none';
+      icon.textContent = '∨';
+    }
+  " style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+
     <div style="display: flex; flex-direction: column;">
       <span style="font-weight: bold; color: #8f0;">RMIT University</span>
       <span style="font-weight: bold; color: white;">Academic Mentor | Reporting to <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/c/cavedon-professor-lawrence" style="color: #4fc3f7;">Prof Lawrence Cavedon</a>, Aug 2021 – Nov 2021</span>
     </div>
+  <span class="icon" style="font-size: 20px; margin-left: 10px;">∨</span>
   </button>
   <div style="display: none; margin-top: 10px; padding-left: 20px;">
     <ul>
@@ -116,11 +167,24 @@ title: Work Experience
 </div>
 
 <div style="margin-bottom: 20px;">
-  <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;">
+<!--   <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;"> -->
+    <button onclick="
+    var content = this.nextElementSibling;
+    var icon = this.querySelector('.icon');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      icon.textContent = '∧';
+    } else {
+      content.style.display = 'none';
+      icon.textContent = '∨';
+    }
+  " style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+
     <div style="display: flex; flex-direction: column;">
       <span style="font-weight: bold; color: #8f0;">ESPOL / Universidad de Guayaquil</span>
       <span style="font-weight: bold; color: white;">Lecturer, May 2017 – Dec 2017</span>
     </div>
+    <span class="icon" style="font-size: 20px; margin-left: 10px;">∨</span>
   </button>
   <div style="display: none; margin-top: 10px; padding-left: 20px;">
     <ul>
@@ -131,11 +195,24 @@ title: Work Experience
 </div>
 
 <div style="margin-bottom: 20px;">
-  <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;">
+<!--   <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;"> -->
+    <button onclick="
+    var content = this.nextElementSibling;
+    var icon = this.querySelector('.icon');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      icon.textContent = '∧';
+    } else {
+      content.style.display = 'none';
+      icon.textContent = '∨';
+    }
+  " style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+
     <div style="display: flex; flex-direction: column;">
       <span style="font-weight: bold; color: #8f0;">Carro Seguro S.A.</span>
       <span style="font-weight: bold; color: white;">Software Developer, Feb 2013 – Feb 2015</span>
     </div>
+    <span class="icon" style="font-size: 20px; margin-left: 10px;">∨</span>
   </button>
   <div style="display: none; margin-top: 10px; padding-left: 20px;">
     <ul>
@@ -148,11 +225,24 @@ title: Work Experience
 </div>
 
 <div style="margin-bottom: 20px;">
-  <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;">
+<!--   <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;"> -->
+    <button onclick="
+    var content = this.nextElementSibling;
+    var icon = this.querySelector('.icon');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      icon.textContent = '∧';
+    } else {
+      content.style.display = 'none';
+      icon.textContent = '∨';
+    }
+  " style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer; display: flex; justify-content: space-between; align-items: center;">
+
     <div style="display: flex; flex-direction: column;">
       <span style="font-weight: bold; color: #8f0;">Carro Seguro S.A.</span>
       <span style="font-weight: bold; color: white;">Technical Support Engineer, Jun 2009 – Feb 2013</span>
     </div>
+    <span class="icon" style="font-size: 20px; margin-left: 10px;">∨</span>
   </button>
   <div style="display: none; margin-top: 10px; padding-left: 20px;">
     <ul>
