@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Home
+---
 ### Education
 
 - **The University of Melbourne**, Melbourne, Australia  
