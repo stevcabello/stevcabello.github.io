@@ -11,9 +11,9 @@ title: Home
   <a href="/resume" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Resume' %}#8f0{% else %}white{% endif %};">Resume</a>
 </nav>
 
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 30px;">
 
-  <div style="max-width: 500px; text-align: left;">
+  <div style="flex: 1; text-align: left;">
     I am an AI Research Scientist and Software Engineer passionate about developing intelligent, interpretable, and scalable solutions. My expertise spans machine learning, time series analysis, software engineering, and applied AI for healthcare and assistive technologies.
   </div>
 
