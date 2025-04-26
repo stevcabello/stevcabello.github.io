@@ -30,12 +30,12 @@ title: Home
 ### Publications
 
 - ["Fast and Accurate Time Series Classification Through Supervised Interval Search"](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a948/1r54GC4rM0o)
-  - Presented in the 2020 IEEE International Conference on Data Mining (ICDM, acceptance rate: 9.8%), pp. 948-953.
+  - Presented in the 2020 IEEE International Conference on Data Mining (ICDM, acceptance rate: 9.8%), pp. 948-953. [Code](https://github.com/stevcabello/STSF)
 
 
     
 - ["Fast, Accurate and Explainable Time Series Classification Through Randomization"](https://link.springer.com/article/10.1007/s10618-023-00978-w)
-  - Published in Data Mining and Knowledge Discovery (DMKD - Q1 journal), pp. 1-64.
+  - Published in Data Mining and Knowledge Discovery (DMKD - Q1 journal), pp. 1-64. [Code](https://github.com/stevcabello/r-STSF)
 
 ---
 
