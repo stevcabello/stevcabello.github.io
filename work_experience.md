@@ -152,7 +152,7 @@ title: Work Experience
   </div>
 </div>
 
-#### The University of Melbourne** 
+#### The University of Melbourne 
 - **AI Research Fellow** | Reporting to [Prof Lars Kulik](https://lars.kuliks.net/?page_id=6), Jan 2023 - Present  
   - Researcher for workstream 3 of the [MATCH project](https://www.musicattunedcare.com/).
   - Development of machine learning models to automate the detection of agitation symptoms related to dementia.
