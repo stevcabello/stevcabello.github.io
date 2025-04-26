@@ -1,14 +1,7 @@
 title: Nestor Cabello
-email: stevcabello@gmail.com
-author: Nestor Cabello
+description: AI Research Scientist and Software Engineer
 
-description: >-
-  AI Research Scientist and Software Engineer
-
-baseurl: ""
-url: ""
-
-theme: jekyll-theme-yat
+remote_theme: jeffreytse/jekyll-theme-yat
 
 header_pages:
   - index.md
@@ -16,16 +9,8 @@ header_pages:
   - projects.md
   - contact.md
 
-markdown: kramdown
-kmarkdown:
-  input: GFM
-
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-spaceship
+  - jekyll-remote-theme
 
 # # theme: jekyll-theme-minimal
 # theme: jekyll-theme-yat
