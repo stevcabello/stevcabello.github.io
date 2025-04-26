@@ -11,6 +11,10 @@ title: Home
   <a href="/resume" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Resume' %}#8f0{% else %}white{% endif %};">Resume</a>
 </nav>
 
+I am an AI Research Scientist and Software Engineer passionate about developing intelligent, interpretable, and scalable solutions. My expertise spans machine learning, time series analysis, software engineering, and applied AI for healthcare and assistive technologies.
+
+---
+
 ### Education
 
 - **The University of Melbourne**, Melbourne, Australia  
