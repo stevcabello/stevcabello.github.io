@@ -13,6 +13,21 @@ title: Work Experience
 
 ### Work Experience
 
+<div style="margin-bottom: 20px;">
+  <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;">
+    The University of Melbourne — AI Research Fellow
+  </button>
+  <div style="display: none; margin-top: 10px; padding-left: 20px;">
+    <ul>
+      <li>Researcher for workstream 3 of the <a href="https://www.musicattunedcare.com/" style="color: #0bf;">MATCH project</a>.</li>
+      <li>Development of machine learning models to automate the detection of agitation symptoms related to dementia.</li>
+      <li>Built a data pipeline to extract and preprocess sensor data from Empatica’s EmbracePlus medical wearable.</li>
+      <li>Researched noise reduction techniques and integrated <a href="https://ieeexplore.ieee.org/document/9914782" style="color: #0bf;">DeepFilterNet</a> models into our audio pipeline.</li>
+      <li>Developed an <a href="https://github.com/stevcabello/CMAI-Labeller-App" style="color: #0bf;">Android/iOS app</a> for data collection of agitation symptoms.</li>
+    </ul>
+  </div>
+</div>
+
 ## **The University of Melbourne** 
 - **AI Research Fellow** | Reporting to [Prof Lars Kulik](https://lars.kuliks.net/?page_id=6), Jan 2023 - Present  
   - Researcher for workstream 3 of the [MATCH project](https://www.musicattunedcare.com/).
