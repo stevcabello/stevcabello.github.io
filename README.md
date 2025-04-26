@@ -64,7 +64,7 @@
   - Technical representative of the MATCH Safety and Capacity Building Committees.
 
 #### RMIT University
-- **Tutor** | Reporting to [Assoc Prof Andy Song](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/s/song-associate-professor-andy), Jul 2023 - Present  
+- **Academic Tutor** | Reporting to [Assoc Prof Andy Song](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/s/song-associate-professor-andy), Jul 2023 - Present  
   - Tutor, Lab Demonstrator, and Marker for Algorithms and Analysis (COSC2123 - 2023 Semester 2).
   - Explain key algorithmic design paradigms: brute force, divide and conquer, decrease and conquer, transform and conquer, greedy, dynamic programming and iterative improvement.
   - Explain key data structures: trees, lists, stacks, queues, hash tables and graph representations.
