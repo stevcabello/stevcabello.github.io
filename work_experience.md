@@ -11,7 +11,7 @@ title: Work Experience
   <a href="/contact" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Contact' %}#8f0{% else %}white{% endif %};">Contact</a>
 </nav>
 
-### Work Experience
+
 
 <div style="margin-bottom: 20px;">
 <!--   <button onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';" style="background-color: transparent; border: 2px solid #8f0; color: #8f0; font-weight: bold; padding: 10px; width: 100%; text-align: left; border-radius: 8px; cursor: pointer;"> -->
