@@ -11,7 +11,6 @@ title: Projects
   <a href="/contact" style="text-decoration: none; margin: 0 15px; font-weight: bold; color: {% if page.title == 'Contact' %}#8f0{% else %}white{% endif %};">Contact</a>
 </nav>
 
-### Projects
 
 - [**Data Labeller App**](https://github.com/stevcabello/CMAI-Labeller-App)
   - Data labeller app created for the MATCH project to facilitate the labelling of agitation symptoms in patients living with dementia. Technologies: React native, Node.js.
