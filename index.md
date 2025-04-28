@@ -48,7 +48,7 @@ title: Home
 
     
 - ["Fast, Accurate and Explainable Time Series Classification Through Randomization"](https://link.springer.com/article/10.1007/s10618-023-00978-w)
-  - Published in Data Mining and Knowledge Discovery (DMKD - Q1 journal), pp. 1-64. [Code](https://github.com/stevcabello/r-STSF)
+  - Published in Data Mining and Knowledge Discovery (DMKD, Q1 journal), Volume 38, pages 748–811, (2024). [Code](https://github.com/stevcabello/r-STSF)
 
 ---
 
