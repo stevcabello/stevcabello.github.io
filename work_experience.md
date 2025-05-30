@@ -40,7 +40,7 @@ title: Work Experience
       <li>Researched noise reduction techniques and integrated <a href="https://ieeexplore.ieee.org/document/9914782" style="color: #0bf;">DeepFilterNet</a> models into our data pipeline to remove/reduce noise from the collected audio data.</li>
       <li>Developed an <a href="https://github.com/stevcabello/CMAI-Labeller-App" style="color: #0bf;">Android/iOS app</a> for data collection of agitation symptoms in patients living with dementia.</li>
       <li>Supervised the development of the MATCH app, which integrates the Spotify API to provide music recommendations.</li>
-      <li>Supervised an undergraduate project (SCIE30001 - 2023 SEMESTER 1) titled "Music Genre Classification with ResNet and Bi-GRU Using Visual Spectrograms".</li>
+<!--       <li>Supervised an undergraduate project (SCIE30001 - 2023 SEMESTER 1) titled "Music Genre Classification with ResNet and Bi-GRU Using Visual Spectrograms".</li> -->
       <li>Technical representative of the MATCH Safety and Capacity Building Committees.</li>
     </ul>
   </div>
