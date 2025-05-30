@@ -41,6 +41,11 @@ title: Work Experience
       <li>Developed an <a href="https://github.com/stevcabello/CMAI-Labeller-App" style="color: #0bf;">Android/iOS app</a> for data collection of agitation symptoms in patients living with dementia.</li>
       <li>Supervised the development of the MATCH app, which integrates the Spotify API to provide music recommendations.</li>
 <!--       <li>Supervised an undergraduate project (SCIE30001 - 2023 SEMESTER 1) titled "Music Genre Classification with ResNet and Bi-GRU Using Visual Spectrograms".</li> -->
+      <li>Supervisor of 2 PhD students.</li>
+      <li>Marker for Master of Information Technology theses during Semester 2, 2023 and Semester 1, 2024.</li>
+      <li>Lecturer for Design of Algorithms (COMP20007) for Semester 1, 2024. Delivered lectures on String Matching, Dynamic Programming, Sorting Algorithms, Binary Search Trees, Hashing, and Data Compression.</li>
+      <li>Reviewer for Conference on Information and Knowledge Management (CIKM) 2024.</li>
+      <li>Reviewer for Knowledge Discovery in Databases (KDD) 2025.</li>
       <li>Technical representative of the MATCH Safety and Capacity Building Committees.</li>
     </ul>
   </div>
