@@ -45,7 +45,7 @@ title: Work Experience
       <li>Marker for Master of Information Technology theses during Semester 2, 2023 and Semester 1, 2024.</li>
       <li>Lecturer for Design of Algorithms (COMP20007) for Semester 1, 2024. Delivered lectures on String Matching, Dynamic Programming, Sorting Algorithms, Binary Search Trees, Hashing, and Data Compression.</li>
       <li>Reviewer for Conference on Information and Knowledge Management (CIKM) 2024.</li>
-      <li>Reviewer for Knowledge Discovery in Databases (KDD) 2025.</li>
+      <li>Reviewer for Knowledge Discovery in Databases (KDD) 2025 (<a href="https://kdd2025.kdd.org/research-track-program-committee/">link</a>).</li>
       <li>Technical representative of the MATCH Safety and Capacity Building Committees.</li>
     </ul>
   </div>
