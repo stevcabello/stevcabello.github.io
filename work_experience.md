@@ -36,12 +36,12 @@ title: Work Experience
     <ul>
       <li>Researcher for workstream 3 of the <a href="https://www.musicattunedcare.com/" style="color: #0bf;">MATCH project</a>.</li>
       <li>Development of machine learning models to automate the detection of agitation symptoms related to dementia.</li>
-      <li>Built a data pipeline to extract and preprocess sensor-based physiological data from Empatica's EmbracePlus medical wearable.</li>
+      <li>Designed and built the data engineering pipeline to extract and preprocess physiological data from Empatica's EmbracePlus wearable; this included architecting and managing a PostgreSQL database to store the aligned sensor and label data for analysis.</li>
       <li>Researched noise reduction techniques and integrated <a href="https://ieeexplore.ieee.org/document/9914782" style="color: #0bf;">DeepFilterNet</a> models into our data pipeline to remove/reduce noise from the collected audio data.</li>
       <li>Developed an <a href="https://github.com/stevcabello/CMAI-Labeller-App" style="color: #0bf;">Android/iOS app</a> for data collection of agitation symptoms in patients living with dementia.</li>
       <li>Supervised the development of the MATCH app, which integrates the Spotify API to provide music recommendations.</li>
 <!--       <li>Supervised an undergraduate project (SCIE30001 - 2023 SEMESTER 1) titled "Music Genre Classification with ResNet and Bi-GRU Using Visual Spectrograms".</li> -->
-      <li>Supervisor of 2 PhD students.</li>
+      <li>Co-supervisor of 2 PhD students.</li>
       <li>Marker for Master of Information Technology theses during Semester 2, 2023 and Semester 1, 2024.</li>
       <li>Lecturer for Design of Algorithms (COMP20007) for Semester 1, 2024. Delivered lectures on String Matching, Dynamic Programming, Sorting Algorithms, Binary Search Trees, Hashing, and Data Compression.</li>
       <li>Reviewer for Conference on Information and Knowledge Management (CIKM) 2024.</li>
@@ -73,7 +73,7 @@ title: Work Experience
   </button>
   <div style="display: none; margin-top: 10px; padding-left: 20px;">
     <ul>
-      <li>Tutor, Lab Demonstrator, and Marker for <strong>Algorithms and Analysis (COSC2123)</strong>.</li>
+      <li>Tutor, Lab Demonstrator, and Marker for <strong>Algorithms and Analysis (COSC2123/COSC1285)</strong>.</li>
       <li>Explain key algorithmic design paradigms: brute force, divide and conquer, decrease and conquer, transform and conquer, greedy, dynamic programming and iterative improvement.</li>
       <li>Explain key data structures: trees, lists, stacks, queues, hash tables and graph representations.</li>
       <li>Theoretically compare and analyse the time complexities of algorithms and data structures.</li>
